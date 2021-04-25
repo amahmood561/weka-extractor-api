@@ -1,5 +1,21 @@
 Hi 
 this is a weka output extractor and value generate from confusion matrix Enjoy
+successful response
+[
+    [
+        ".5",
+        "45 8\n25 110",
+        "0.849\n0.753\n0.908",
+        "0.185\n0.815\n0.949",
+        "0.643\n0.151\n0.824",
+        "0.849\n0.932\n0.161",
+        "0.732\n0.815\n0.851",
+        "0.618\n0.87\n0.824",
+        "0.908\n0.618\n0.831",
+        0.18518518518518517,
+        0.1509433962264151
+    ]
+]
 
 example post url:
 http://127.0.0.1:5000/weka/fit.txt
